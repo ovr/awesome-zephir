@@ -3,6 +3,11 @@ Awesome Zephir
 
 > A list of projects created by Zephir language
 
+## General
+
+- [Website with Docs](http://zephir-lang.com/)
+- [Forum](http://forum.zephir-lang.com/)
+
 ## Frameworks
 
 - [Phalcon 2](https://github.com/phalcon/cphalcon/tree/2.0.0)
