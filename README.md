@@ -17,3 +17,7 @@ Awesome Zephir
 ## Working with DB
 
 - [Lynx](https://github.com/lynx/lynx)
+
+## Connect with Services
+
+- [Zephlack](https://github.com/linxlad/zephlack) - Slack Messaging
